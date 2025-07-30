@@ -1,0 +1,18 @@
+body {
+	margin: 0;
+	font-family: sans-serif;
+}
+
+.flex-item {
+	background-color: red;
+	margin: 10px;
+	border-radius: 10px;
+	padding: 70px;
+	width: 30px;
+	text-align: center;
+}
+.flexbox 
+{
+	display: flex;
+	flex-direction: column;
+}
